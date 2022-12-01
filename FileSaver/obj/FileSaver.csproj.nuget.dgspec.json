@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anon\\Desktop\\FileSaver\\FileSaver\\FileSaver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anon\\Desktop\\FileSaver\\FileSaver\\FileSaver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anon\\Desktop\\FileSaver\\FileSaver\\FileSaver.csproj",
+        "projectName": "FileSaver",
+        "projectPath": "C:\\Users\\Anon\\Desktop\\FileSaver\\FileSaver\\FileSaver.csproj",
+        "packagesPath": "C:\\Users\\Anon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anon\\Desktop\\FileSaver\\FileSaver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Anon\\Desktop\\FileSaver\\SaveLibrary\\SaveLibrary.csproj": {
+                "projectPath": "C:\\Users\\Anon\\Desktop\\FileSaver\\SaveLibrary\\SaveLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anon\\Desktop\\FileSaver\\SaveLibrary\\SaveLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anon\\Desktop\\FileSaver\\SaveLibrary\\SaveLibrary.csproj",
+        "projectName": "SaveLibrary",
+        "projectPath": "C:\\Users\\Anon\\Desktop\\FileSaver\\SaveLibrary\\SaveLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
