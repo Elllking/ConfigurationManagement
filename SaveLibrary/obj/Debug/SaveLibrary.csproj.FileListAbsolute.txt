@@ -10,3 +10,9 @@ C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.Assembl
 C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.dll
 C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.pdb
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\bin\Debug\SaveLibrary.dll
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\bin\Debug\SaveLibrary.pdb
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\obj\Debug\SaveLibrary.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\obj\Debug\SaveLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\obj\Debug\SaveLibrary.dll
+C:\Users\Anon\Desktop\ConfigurationManagement\SaveLibrary\obj\Debug\SaveLibrary.pdb

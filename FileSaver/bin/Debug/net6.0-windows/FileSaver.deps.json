@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileSaver/1.0.0": {
+        "dependencies": {
+          "SaveLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FileSaver.dll": {}
+        }
+      },
+      "SaveLibrary/1.0.0": {
+        "runtime": {
+          "SaveLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileSaver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaveLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
