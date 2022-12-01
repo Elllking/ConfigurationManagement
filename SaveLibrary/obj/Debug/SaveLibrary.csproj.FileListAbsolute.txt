@@ -1,0 +1,12 @@
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\bin\Debug\SaveLibrary.dll
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\bin\Debug\SaveLibrary.pdb
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.AssemblyReference.cache
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.CoreCompileInputs.cache
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.dll
+D:\Studies\Semester3\Управление конфигурациями программного продукта (Убалехт)\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.pdb
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\bin\Debug\SaveLibrary.dll
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\bin\Debug\SaveLibrary.pdb
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.dll
+C:\Users\Anon\Desktop\FileSaver\SaveLibrary\obj\Debug\SaveLibrary.pdb
